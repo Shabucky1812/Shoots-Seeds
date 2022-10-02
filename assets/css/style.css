@@ -32,6 +32,10 @@ h1, h2 {
     line-height: 45px;
 }
 
+#page-header h2:hover {
+    color: #E1EFE6;
+}
+
 #nav-links {
     float: right;
     margin-top: 30px;
@@ -48,4 +52,8 @@ h1, h2 {
     text-transform: uppercase;
     margin-right: 30px;
     font-size: 140%;
+}
+
+#nav-links a:hover {
+    color: #FFBF00;
 }
