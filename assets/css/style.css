@@ -133,3 +133,49 @@ h1, h2, h3{
     font-size: 120%;
     padding: 5%;
 }
+
+/* open times section */
+
+.open-times-third {
+    width: 33%;
+    height: 400px;
+    float: left;
+    background-color: #2E5266;
+}
+
+.open-times-third h3 {
+    text-align: center;
+    font-size: 200%;
+    padding-top: 60px;
+    color: #FFBF00;
+}
+
+.open-times-third table {
+    margin: 50px auto 100px;
+    text-align: center;
+    color: #FFBF00;
+    padding: 30px;
+    border: 1px solid #FFBF00;
+    border-radius: 5px;
+}
+
+.open-times-third th, .open-times-third td {
+    padding: 5px;
+    font-size: 120%;
+}
+
+.table-border-bottom {
+    border-bottom: 1px solid #FFBF00;
+}
+
+.table-border-right {
+    border-right: 1px solid #FFBF00;
+}
+
+.filler-image {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    padding: 5%;
+}
+
