@@ -138,20 +138,20 @@ h1, h2, h3{
 
 .open-times-third {
     width: 33.3%;
-    height: 400px;
+    height: 450px;
     background-color: #2E5266;
     float: left;
 }
 
 .open-times-third h3 {
     text-align: center;
-    font-size: 200%;
-    padding-top: 60px;
+    font-size: 220%;
+    padding-top: 40px;
     color: #FFBF00;
 }
 
 .open-times-third table {
-    margin: 50px auto 100px;
+    margin: 40px auto 130px;
     text-align: center;
     color: #FFBF00;
     padding: 30px;
@@ -183,6 +183,19 @@ h1, h2, h3{
 
 footer {
     width: 100%;
-    height: 100px;
+    height: 120px;
     background-color: #31081F;
+    position: relative;
+    bottom: 0;
+    clear: both;
+}
+
+footer #social-links {
+    text-align: center;
+    font-size: 200%;
+}
+
+#social-links i {
+    padding: 44px 50px;
+    color: #E1EFE6;
 }
