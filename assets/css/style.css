@@ -113,7 +113,7 @@ h1, h2, h3{
     height: 400px;
     border: 1px solid #2E5266;
     border-radius: 5px;
-    margin: 0 auto;
+    margin-left: 0.1%;
 }
 
 .about-column > h3 {
@@ -137,10 +137,10 @@ h1, h2, h3{
 /* open times section */
 
 .open-times-third {
-    width: 33%;
+    width: 33.3%;
     height: 400px;
-    float: left;
     background-color: #2E5266;
+    float: left;
 }
 
 .open-times-third h3 {
@@ -178,4 +178,3 @@ h1, h2, h3{
     object-fit: cover;
     padding: 5%;
 }
-
