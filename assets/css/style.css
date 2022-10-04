@@ -220,6 +220,20 @@ footer #social-links {
     color: #FFBF00;
 }
 
+#form-head {
+    font-size: 120%;
+    padding: 2%;
+    border: 1px solid #FFBF00;
+}
+
+#competition-form form {
+    background-color: #E1EFE6;
+    margin: 20px auto 0;
+    padding: 2%;
+    color: #31081F;
+    width: 80%;
+}
+
 .form-input {
     display: block;
 }
