@@ -200,6 +200,36 @@ footer #social-links {
     color: #E1EFE6;
 }
 
+/* what's new page */
+
+#new-stock-box {
+    height: 100%;
+    width: 75%;
+    margin: 20px auto;
+}
+
+#new-stock-title {
+    text-align: center;
+    font-size: 250%;
+}
+
+.new-stock {
+    width: 100%;
+    height: 300px;
+    text-align: left;
+    float: left;
+}
+
+.new-stock img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.new-stock h3, .new-stock p {
+    display: inline-block;
+}
+
 /* form */
 
 #form-surround {
