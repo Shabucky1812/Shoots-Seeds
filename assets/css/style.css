@@ -202,12 +202,15 @@ footer #social-links {
 
 /* form */
 
+#form-surround {
+    padding: 5% 0;
+}
+
 #form-background {
     background: url(../images/plant-form-background.jpg) no-repeat center center;
     object-fit: cover;
     width: 100%;
     height: 100%;
-    padding: 5% 0;
 }
 
 #competition-form {
@@ -221,9 +224,14 @@ footer #social-links {
 }
 
 #form-head {
-    font-size: 120%;
+    font-size: 110%;
     padding: 2%;
     border: 1px solid #FFBF00;
+}
+
+#form-head h2 {
+    padding-bottom: 10px;
+    font-size: 170%;
 }
 
 #competition-form form {
@@ -231,9 +239,27 @@ footer #social-links {
     margin: 20px auto 0;
     padding: 2%;
     color: #31081F;
-    width: 80%;
+    width: 60%;
 }
 
-.form-input {
+.form-radio {
+    display: inline;
+}
+
+.form-item {
     display: block;
+    margin: 0 auto;
+    padding: 2% 5%;
+    font-size: 110%;
+}
+
+.enter-button {
+    background-color: #FFBF00;
+    margin-top: 2%;
+    border-radius: 10%;
+}
+
+.enter-button:hover {
+    background-color: #31081F;
+    color: #FFBF00;
 }
