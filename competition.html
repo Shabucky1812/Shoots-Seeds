@@ -27,28 +27,33 @@
             </ul>
         </nav>
     </header>
-
-    <section>
-        gallery
-    </section>
-
+    
     <section>
         <div>
             <h2>Get Involved</h2>
-            <p>Here at Shoots & Seeds we love to interact with our community, which is exactly why we created our monthly competition! All you have to do is send us an image of your own plants and wildlife and our favourite picture every month gets featured on our website in the gallery above! Plus, the winner will bag themselves a £50 gift voucher to spend in our stores. Good Luck!</p>
+
+            <p>
+                We love to interact with our community! By using the form below you can vote for which plant we should add to our colection next month. Whilst you're there, feel free to enter our competition by letting us know what you think about our website. One random customer who gives us their feedback is selected monthly to win a £50 gift voucher to use in our stores. Good Luck!
+            </p>
             <form action="https://formdump.codeinstitute.net/" method="post">
                 
-                <label for="form-first-name">Your First Name:</label>
-                <input type="text" name="user_first_name" id="form-first-name" required>
+                <label for="form-name">Full Name:</label>
+                <input type="text" name="user_name" id="form-name" required>
 
-                <label for="form-surname">Your Surname:</label>
-                <input type="text" name="user_surname" id="form-surname" required>
-
-                <label for="form-email">Your Email Address:</label>
+                <label for="form-email">Email Address:</label>
                 <input type="email" name="user_email" id="form-email" required>
 
-                <label for="form-image">Attach Your Photo Here:</label>
-                <input type="file" name="user-image" id="form-image" required>
+                <label for="sunflower-radio">Sunflower</label>
+                <input type="radio" name="flower_vote" id="sunflower-radio" required>
+
+                <label for="lily-radio">Lily</label>
+                <input type="radio" name="flower_vote" id="lily-radio" required>
+
+                <label for="tulip-radio">Tulip</label>
+                <input type="radio" name="flower_vote" id="tulip-radio" required>
+
+                <label for="user-feedback">Let us know what you think here:</label>
+                <textarea id="user-feedback" name="user_feedback" cols="60" rows="8" placeholder="Enter your feedback to be in with a chance at winning a £50 Shoots & Seeds gift voucher"></textarea>
 
                 <input type="submit" value="Enter!">
                 
