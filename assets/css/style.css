@@ -199,3 +199,27 @@ footer #social-links {
     padding: 44px 50px;
     color: #E1EFE6;
 }
+
+/* form */
+
+#form-background {
+    background: url(../images/plant-form-background.jpg) no-repeat center center;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    padding: 5% 0;
+}
+
+#competition-form {
+    width: 60%;
+    height: auto;
+    background-color: rgba(46, 82, 102, 0.8);
+    margin: 0 auto;
+    padding: 2%;
+    text-align: center;
+    color: #FFBF00;
+}
+
+.form-input {
+    display: block;
+}
