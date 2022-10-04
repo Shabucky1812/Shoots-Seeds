@@ -240,6 +240,7 @@ footer #social-links {
     padding: 2%;
     color: #31081F;
     width: 60%;
+    border: 20px solid #FFBF00;
 }
 
 .form-radio {
