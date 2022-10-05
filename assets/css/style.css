@@ -222,12 +222,13 @@ footer #social-links {
 
 .new-stock img {
     height: 300px;
-    width: 300px;
+    width: 30%;
     object-fit: cover;
 }
 
-.new-stock h3, .new-stock p {
-    display: inline-block;
+.stock-text {
+    width: 70%;
+    float: right;
 }
 
 /* form */
