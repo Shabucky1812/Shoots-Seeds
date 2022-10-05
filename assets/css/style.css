@@ -10,6 +10,10 @@ body {
     font-family: Lato, sans-serif;
     background-color: #E1EFE6;
     color: #31081F;
+    max-width: 1920px;
+    margin: 0 auto;
+    position: relative;
+    left: 0;
 }
 
 h1, h2, h3{
@@ -210,7 +214,8 @@ footer #social-links {
 
 #new-stock-title {
     text-align: center;
-    font-size: 250%;
+    font-size: 280%;
+    margin: 20px 0;
 }
 
 .new-stock {
@@ -218,6 +223,8 @@ footer #social-links {
     height: 300px;
     text-align: left;
     float: left;
+    background-color: #31081F;
+    margin-bottom: 40px;
 }
 
 .new-stock img {
@@ -227,8 +234,20 @@ footer #social-links {
 }
 
 .stock-text {
-    width: 70%;
+    width: 60%;
     float: right;
+    padding: 3% 5%;
+}
+
+.stock-text h3 {
+    font-size: 200%;
+    color: #E1EFE6;
+    margin-bottom: 2%;
+}
+
+.stock-text p {
+    font-size: 120%;
+    color: #E1EFE6;
 }
 
 /* form */
