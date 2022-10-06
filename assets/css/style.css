@@ -340,3 +340,50 @@ footer #social-links {
     }
 
 }
+
+/* medium-to-small screens */
+
+@media screen and (max-width:1100px) {
+
+    #page-header h2 {
+        font-size: 250%;
+    }
+
+    #nav-links a {
+        font-size: 120%;
+    }
+
+    #hero-image {
+    height: 323px;
+    }
+
+    #main-banner {
+        height: 100px
+    }
+
+    #main-banner h1 {
+        font-size: 300%;
+    }
+
+    #main-banner p {
+        font-size: 140%;
+    }
+
+    .about-column {
+        width: 60%;
+        margin: 5px auto;
+        float: none;
+    }
+
+    .open-times-third {
+        clear: both;
+        margin: 0 auto;
+        float: none;
+        width: 60%;
+    }
+
+    #competition-form {
+        width: 90%;
+    }
+
+}
