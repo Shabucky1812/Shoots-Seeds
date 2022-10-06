@@ -389,6 +389,8 @@ footer #social-links {
 
 }
 
+/* tablet screens */
+
 @media screen and (max-width:800px) {
 
     #page-header h2 {
@@ -484,6 +486,80 @@ footer #social-links {
 
     textarea {
         width: 90%;
+    }
+
+}
+
+/* small phone screens */
+
+@media screen and (max-width:550px) {
+
+    #page-header h2 {
+        margin-left: 10px;
+    }
+   
+    #nav-links a {
+        margin-left: 10px;
+    }
+
+    #hero-image {
+        height: 273px;
+        padding-top: 127px;
+    }
+
+    #main-banner {
+        width: 95%;
+    }
+
+    #main-banner h1 {
+        letter-spacing: 1px;
+        font-size: 205%;
+    }
+
+    #about-title {
+        font-size: 200%;
+    }
+
+    .about-column {
+        width: 90%;
+        height: auto;
+    }
+
+    .about-column h3 {
+        font-size: 150%;
+    }
+
+    .open-times-third {
+        width: 100%;
+    }
+
+    .open-times-third h3 {
+        font-size: 160%;
+    }
+
+    .open-times-third table {
+        padding: 15px;
+    }
+
+    #social-links i {
+        padding: 44px 20px;
+    }
+
+    #new-stock-box {
+        width: 90%;
+    }
+
+    #competition-form form {
+        width: 80%;
+    }
+
+    .form-item {
+        width: 90%;
+    }
+
+    .enter-button {
+        margin: 20px auto;
+        width: 60%;
     }
 
 }
