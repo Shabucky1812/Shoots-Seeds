@@ -1,3 +1,4 @@
+/* google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display:wght@700&display=swap');
 
 html {
@@ -5,6 +6,7 @@ html {
     left: 0;
     top: 0;
     bottom: 0;
+    min-height: 100%;
 }
 
 * {
@@ -328,6 +330,23 @@ footer #social-links {
 .enter-button:hover {
     background-color: #31081F;
     color: #FFBF00;
+}
+
+/* 404 page */
+
+#error-text {
+    margin: 200px auto;
+    width: 80%;
+    height: auto;
+    text-align: center;
+    background-color: #FFBF00;
+    color: #2E5266;
+    font-size: 200%;
+}
+
+#error-text h3, #error-text p, #error-text a {
+    padding-top: 20px;
+    margin-top: 40px;
 }
 
 /* media queries */
