@@ -91,7 +91,7 @@ h1, h2, h3{
 
 #main-banner {
     background-color: rgba(12, 118, 45, 0.4);
-    height: 20vh;
+    height: auto;
     width: 60%;
     margin: 0 auto;
 }
@@ -316,6 +316,7 @@ footer #social-links {
     margin: 0 auto;
     padding: 2% 5%;
     font-size: 110%;
+    font-family: Lato, sans-serif;
 }
 
 .enter-button {
@@ -333,7 +334,22 @@ footer #social-links {
 
 /* xl screens */
 
+@media screen and (min-width:3000px) {
+
+    #main-banner p {
+        font-size: 400%;
+    }
+
+}
+
+/* large screens */
+
 @media screen and (min-width:2050px) {
+
+    #main-banner {
+        height: 300px;
+    }
+
 
     #main-banner h1 {
         font-size: 700%;
