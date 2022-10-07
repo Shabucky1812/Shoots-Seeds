@@ -500,6 +500,7 @@ footer #social-links {
    
     #nav-links a {
         margin-left: 10px;
+        font-size: 95%;
     }
 
     #hero-image {
@@ -513,7 +514,7 @@ footer #social-links {
 
     #main-banner h1 {
         letter-spacing: 1px;
-        font-size: 205%;
+        font-size: 200%;
     }
 
     #about-title {
