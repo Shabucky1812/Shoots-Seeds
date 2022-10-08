@@ -12,6 +12,9 @@ The main goal of this website is to market the imagined business: 'Shoots & Seed
 -[Credits](#credits)  
 
 ## UX
+### User Stories:  
+  -The goal of this site for new users is to market the business in a non-obtrusive and enjoyable way. New users should quickly be able to know how to navigate the pages and absorb all of the content efficiently. They should learn some basics about Shoots & Seeds and also the opening times. Additionally, first-time users should be intrigued by the monthly new stock and competition and desire to return to the website at a later date.  
+  -Returning users should be able to navigate the pages of the site quickly and see what new stock is available each month. Each section of the "what's new?" page should be informative and promote the stock to the user. Frequent users are also encouraged to provide feedback and enter the monthly competition via the "competition" page. The form should be simple and effective to increase the chances of user interaction.
 
 ## Design
 
