@@ -43,7 +43,17 @@ The hero image provides the first impression to the user upon launching the site
 ### About Us Section
 ![About Us section of Shoots & Seeds website](assets/images/shoots-seeds-about.png)  
 
-The about us section is divided into 3 sub-sections so that the information is less imposing and easier to digest for the user. The text and background colour provide high-contrast for ease of reading and I also used some [font awesome](https://fontawesome.com/) icons alongside the three sub-section titles to add some visual appeal.
+The about us section is divided into 3 sub-sections so that the information is less imposing and easier to digest for the user. The text and background colour provide high-contrast for ease of reading and I also used some [font awesome](https://fontawesome.com/) icons alongside the three sub-section titles to add some visual appeal.  
+
+### Open Times Section
+![Open Times section of Shoots & Seeds website](assets/images/shoots-seeds-open-times.png)  
+
+The open times section features a table that shows the user the open times of the Shoots & Seeds stores. The left and right thirds of the section contain filler images to keep the user interested and also continue the three column style of the about us section. I changed the background-color of this section to colour block the sections and give the user a sense of progression through the site. The color of the text is also changed accordingly to maintain high-contrast.  
+
+### Footer
+![Footer of Shoots & Seeds website](assets/images/shoots-seeds-footer.png)  
+
+The background and text colour of the footer is the reverse of the background and text color of the main body to create consistency but also divide the sections. Inside the footer is links to various social media platforms in the form of more [font awesome](https://fontawesome.com/) icons. These links open in a new tab when followed.
 
 ## Technologies Used
 
