@@ -3,18 +3,18 @@ The main goal of this website is to market the imagined business: 'Shoots & Seed
 
 ![Simulated representation of Shoots & Seeds website adapting to multiple different screen sizes](assets/images/amiresponsive-shoots-seeds.png)
 ## Contents
--[UX](#ux)  
--[Design](#design)  
--[Features](#features)  
--[Technologies Used](#technologies-used)  
--[Deployment](#deployment)  
--[Testing](#testing)  
--[Credits](#credits)  
+- [UX](#ux)  
+- [Design](#design)  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Deployment](#deployment)  
+- [Testing](#testing)  
+- [Credits](#credits)  
 
 ## UX
 ### User Stories:  
-  -The goal of this site for new users is to market the business in a non-obtrusive and enjoyable way. New users should quickly be able to know how to navigate the pages and absorb all of the content efficiently. They should learn some basics about Shoots & Seeds and also the opening times. Additionally, first-time users should be intrigued by the monthly new stock and competition and desire to return to the website at a later date.  
-  -Returning users should be able to navigate the pages of the site quickly and see what new stock is available each month. Each section of the "what's new?" page should be informative and promote the stock to the user. Frequent users are also encouraged to provide feedback and enter the monthly competition via the "competition" page. The form should be simple and effective to increase the chances of user interaction.
+  - The goal of this site for new users is to market the business in a non-obtrusive and enjoyable way. New users should quickly be able to know how to navigate the pages and absorb all of the content efficiently. They should learn some basics about Shoots & Seeds and also the opening times. Additionally, first-time users should be intrigued by the monthly new stock and competition and desire to return to the website at a later date.  
+  - Returning users should be able to navigate the pages of the site quickly and see what new stock is available each month. Each section of the "what's new?" page should be informative and promote the stock to the user. Frequent users are also encouraged to provide feedback and enter the monthly competition via the "competition" page. The form should be simple and effective to increase the chances of user interaction.
 
 ## Design
 ### Colour Scheme and Imagery:
@@ -66,11 +66,16 @@ The "What's New?" page contains an image and some descriptive text for each of t
 The competition form contains a small description, a text input, an email input, 3 radio buttons, a textarea input, and a submit button. This allows the user to learn what the monthly competiton is about and enter if they would like to. This section is valuable for users because it lets them provide their own feedback and develop the relationship between them and the business. It also increases interactivity with returning users.  
 
 ### Future Implementations:
--One feature that I would like to add to the site in the future is an iframe for google maps which shows the location of Shoots & Seeds stores. This would fit nicely between the open times section and the footer on the home page. This feature was in my initial scope for this website however, it never reached this version becuase I didn't feel as though I possessed the required knowledge to implement it in a style consistent with the rest of the site. I decided to leave this feature for future version once I felt I could implement it in a way that allowed it to shine on the page.  
+- One feature that I would like to add to the site in the future is an iframe for google maps which shows the location of Shoots & Seeds stores. This would fit nicely between the open times section and the footer on the home page. This feature was in my initial scope for this website however, it never reached this version becuase I didn't feel as though I possessed the required knowledge to implement it in a style consistent with the rest of the site. I decided to leave this feature for a future version once I felt I could implement it in a way that allowed it to shine on the page.  
 
--Another feature I would like to implement in the future is a gallery of user-submitted images. The gallery would be it's own new page and would display the best user pictures on a weekly/monthly rotation. The page would include a small and seamless form that allowed the user to submit their own imagery. A simplified version of this feature was my initial design for the current competition form but I found that I lacked the experience to create a form that allowed users to submit their images in a neat way.  
+- Another feature I would like to implement in the future is a gallery of user-submitted images. The gallery would be it's own new page and would display the best user pictures on a weekly/monthly rotation. The page would include a small and seamless form that allowed the user to submit their own imagery. A simplified version of this feature was my initial design for the current competition form but I found that I lacked the experience to create a form that allowed users to submit their images in a neat way.  
 
 ## Technologies Used
+- This website was created with the HTML5 and CSS3 programming languages.  
+- This website was developed within [Gitpod](https://www.gitpod.io/).  
+- The repository for this website was created using [GitHub](https://github.com/) and [Git](https://git-scm.com/) was used for version control.  
+- The fonts used on this website were imported from [Google Fonts](https://fonts.google.com/about).  
+- The image used in the introduction of this README was taken from [Am I Responsive?](https://ui.dev/amiresponsive).  
 
 ## Deployment
 
