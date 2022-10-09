@@ -92,3 +92,16 @@ To clone this repository paste `git clone https://github.com/Shabucky1812/Shoots
 ## Testing
 
 ## Credits
+### Contents  
+- All of the code for this website was written by me, [Shaun Buck](https://github.com/Shabucky1812).  
+
+### Media  
+- All of the imagery used throughout the website was taken from [Pexels](https://www.pexels.com/).  
+- The icons used in the footer and about us subheadings were taken from [Font Awesome](https://fontawesome.com/).  
+
+### Acknowledgements  
+Firstly, I would like to extend a huge thank you to my mentor, Brian Macharia, for all of his advice and encouragement and for pushing me further than I could have expected in such a short time. Secondly, massive thanks to [Code Institute](https://codeinstitute.net/) for making any of this possible for me and appearing in my life at the perfect time.  
+I would also like to thank my family who have supported me unwaveringly in everything.  
+Finally, thanks to Angelmaker, Tallah, and Loathe for fueling every single line of code.  
+
+And thank you for taking the time to read this README! 
