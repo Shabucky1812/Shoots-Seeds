@@ -15,3 +15,9 @@ Competition page Lighthouse:
 The main reason for the low performance score on the home page is large image sizes. I will resolve this issue in a future version by either condensing the image files someway or replacing them with smaller versions.  
 
 ## Manual Testing 
+### Functionality:
+| Test Label | Test Action | Expected Outcome | Test Outcome |
+|------------|-------------|------------------|--------------|
+| Internal links function correctly. | Click all navigation links on every page. | All links should navigate where expected. | PASS |
+| External links function correctly. | Click all social media links in the footer. | All links should navigate where expected and open in a new tab. | PASS |
+| Form functions correctly. | Attempt to submit form with different fields empty. | The form should only submit with all required fields filled correctly. | PASS |
