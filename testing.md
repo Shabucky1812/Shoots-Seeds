@@ -33,4 +33,13 @@ This website works as intended on the following browsers:
 ![Demonstration of Shoots & Seeds website on 320px screen size](assets/images/small-screen-responsiveness.png)  
 
 4K screen Responsiveness:  
-![Demonstration of Shoots & Seeds website on 4K screen size](assets/images/large-screen-responsiveness.png)
+![Demonstration of Shoots & Seeds website on 4K screen size](assets/images/large-screen-responsiveness.png)  
+
+## Bugs
+### Solved Bugs:
+- There was an issue with the footer loading halfway up the home page instead of at the bottom. I fixed this issue by giving the html file a min-height of 100% and a position of relative and giving the footer an absolute position of bottom:0 and left:0.
+
+### Known Bugs:
+- There are no current bugs as far as I am aware.
+
+Return to [README](README.md)
