@@ -21,3 +21,16 @@ The main reason for the low performance score on the home page is large image si
 | Internal links function correctly. | Click all navigation links on every page. | All links should navigate where expected. | PASS |
 | External links function correctly. | Click all social media links in the footer. | All links should navigate where expected and open in a new tab. | PASS |
 | Form functions correctly. | Attempt to submit form with different fields empty. | The form should only submit with all required fields filled correctly. | PASS |
+
+### Browser Compatibility:
+This website works as intended on the following browsers:
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+
+### Responsiveness:
+320px Screen Responsiveness:  
+![Demonstration of Shoots & Seeds website on 320px screen size](assets/images/small-screen-responsiveness.png)  
+
+4K screen Responsiveness:  
+![Demonstration of Shoots & Seeds website on 4K screen size](assets/images/large-screen-responsiveness.png)
